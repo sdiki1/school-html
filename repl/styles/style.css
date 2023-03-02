@@ -1,0 +1,47 @@
+body {
+    padding: 30px;
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    line-height: 30px;
+}
+
+nav {
+    background-color: grey;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.description{
+    font-size: 16px;
+    background-color: lightblue;
+    padding: 15px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    border: 1px solid red;
+}
+
+div {
+    color: red;
+}
+
+img {
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.cards-section {
+    padding: 15px;
+    border: 1px solid darkgreen;
+}
+
+.cards-block {
+    padding: 15px;
+    border: 1px solid green;
+}
+
+.card-item {
+    padding: 15px;
+    border: 1px solid lightgreen;    
+}
